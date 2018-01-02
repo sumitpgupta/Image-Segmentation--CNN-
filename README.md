@@ -18,10 +18,17 @@ Run Image_Segmentation.py in terminal to see the network in training. I have use
 
 
 '''
-from keras.models import Sequential 
-from keras.layers import Convolution2D
-from keras.layers import MaxPooling2D
-from keras.layers import Flatten
-from keras.layers import Dense
+
+0.8459 - val_loss: 0.4135 - val_acc: 0.8163
+Epoch 21/25
+250/250 [==============================] - 626s - loss: 0.3417 - acc: 0.8475 - val_loss: 0.4398 - val_acc: 0.8140
+Epoch 22/25
+250/250 [==============================] - 418s - loss: 0.3257 - acc: 0.8544 - val_loss: 0.4407 - val_acc: 0.8135
+Epoch 23/25
+250/250 [==============================] - 435s - loss: 0.3178 - acc: 0.8642 - val_loss: 0.4935 - val_acc: 0.7969
+Epoch 24/25
+250/250 [==============================] - 505s - loss: 0.3102 - acc: 0.8636 - val_loss: 0.4149 - val_acc: 0.8287
+Epoch 25/25
+250/250 [==============================] - 470s - loss: 0.3032 - acc: 0.8664 - val_loss: 0.4243 - val_acc: 0.8176
 '''
-f
+
