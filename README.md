@@ -85,5 +85,4 @@ Epoch 25/25
 250/250 [==============================] - 470s - loss: 0.3032 - acc: 0.8664 - val_loss: 0.4243 - val_acc: 0.8176
 ```
 
-## 
-Accuracy: 81.76% on test set
+## Accuracy: 81.76% on test set
